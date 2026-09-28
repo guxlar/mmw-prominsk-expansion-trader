@@ -1,0 +1,307 @@
+{
+  "m_Version": 3,
+  "RoamingLocations": [
+    {
+      "Name": "Settlement_Chernogorsk (Prominsk)",
+      "Position": [
+        3541.39917,
+        0,
+        5485.11865
+      ],
+      "Radius": 1000.0,
+      "Type": "Capital",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Novodmitrovsk (Red Station)",
+      "Position": [
+        3237.3645,
+        0,
+        5536.44238
+      ],
+      "Radius": 100.0,
+      "Type": "RailroadStation",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Novoselki (Yelmsk)",
+      "Position": [
+        3777.39526,
+        0,
+        6722.79639
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Dubovo (Frostvall)",
+      "Position": [
+        3513.87427,
+        0,
+        6300.83057
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Vysotovo (Glacierhold)",
+      "Position": [
+        4120.14795,
+        0,
+        6188.31055
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Zelenogorsk (Ravengard)",
+      "Position": [
+        5314.17236,
+        0,
+        5684.53711
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Berezino (Severograd)",
+      "Position": [
+        4684.02832,
+        0,
+        4933.50537
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Elektrozavodsk (Whitepeak)",
+      "Position": [
+        6045.5874,
+        0,
+        5793.39355
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_NovayaPetrovka (Borovgrad)",
+      "Position": [
+        35732.3008,
+        0,
+        6134.13281
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Gorka (Ozero)",
+      "Position": [
+        6201.8335,
+        0,
+        5478.36914
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Solnechny (Southgate)",
+      "Position": [
+        5855.40137,
+        0,
+        4739.15186
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_StarySobor (Packoed Castle)",
+      "Position": [
+        4633.42139,
+        0,
+        4422.90479
+      ],
+      "Radius": 100.0,
+      "Type": "Ruin",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Vybor (Kholmsk)",
+      "Position": [
+        4459.01709,
+        0,
+        4559.55127
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Severograd (Stonebridge)",
+      "Position": [
+        4011.81201,
+        0,
+        4128.58936
+      ],
+      "Radius": 100.0,
+      "Type": "Camp",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Svetloyarsk (Ironport Castle)",
+      "Position": [
+        3107.63062,
+        0,
+        4309.55371
+      ],
+      "Radius": 100.0,
+      "Type": "Camp",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Krasnostav (Dreadfort)",
+      "Position": [
+        3562.09668,
+        0,
+        3938.5166
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_ChernayaPolyana (Varynsk)",
+      "Position": [
+        4179.42529,
+        0,
+        3527.90747
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Polyana (Eldwatch)",
+      "Position": [
+        3964.14404,
+        0,
+        3138.5918
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Tulga (Mount Rax)",
+      "Position": [
+        3875.85132,
+        0,
+        2472.5415
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Msta (Blackhaven Airfield)",
+      "Position": [
+        2453.95093,
+        0,
+        3134.97144
+      ],
+      "Radius": 100.0,
+      "Type": "Camp",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Shakhovka (Prominsk Airbase)",
+      "Position": [
+        4335.38477,
+        0,
+        1741.98535
+      ],
+      "Radius": 100.0,
+      "Type": "Camp",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Dolina (Vanguard Camp)",
+      "Position": [
+        3927.85669,
+        0,
+        1716.00598
+      ],
+      "Radius": 100.0,
+      "Type": "Camp",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Orlovets (P-13 Sector)",
+      "Position": [
+        4093.70947,
+        0,
+        1156.12366
+      ],
+      "Radius": 100.0,
+      "Type": "Camp",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_NovySobor (P-13 Research Facility)",
+      "Position": [
+        6005.60059,
+        0,
+        3180.89136
+      ],
+      "Radius": 100.0,
+      "Type": "Camp",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Kabanino (Silent Pines)",
+      "Position": [
+        3341.51904,
+        0,
+        1710.43311
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    },
+    {
+      "Name": "Settlement_Mogilevka (Blackwater Lake)",
+      "Position": [
+        5610.25244,
+        0,
+        5157.87402
+      ],
+      "Radius": 200.0,
+      "Type": "Village",
+      "Enabled": 1
+    }
+  ],
+  "ExcludedRoamingBuildings": [
+    "Land_Boat_",
+    "Land_CementWorks_Hall2_Grey",
+    "Land_Factory_Small",
+    "Land_House_1W09",
+    "Land_House_2W03",
+    "Land_HouseBlock_1F4",
+    "Land_Boathouse",
+    "Land_Mine_Building",
+    "Land_Shed_W2",
+    "Land_Tenement_Big",
+    "Land_Misc_Toilet_Mobile",
+    "Land_Ship_Medium2",
+    "Land_Train_Wagon_Box"
+  ],
+  "NoGoAreas": []
+}

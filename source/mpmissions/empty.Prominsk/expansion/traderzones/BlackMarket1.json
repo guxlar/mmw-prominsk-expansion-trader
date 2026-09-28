@@ -1,0 +1,42 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "BlackMarket1",
+    "Position": [
+        4130.0,
+        91.0,
+        5649.0
+    ],
+    "Radius": 50.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {
+        "expansion_ammo_arrowbolt": 0,
+        "expansion_taser_yellow": 0,
+        "expansionhelipadkit": 0,
+        "ammo_expansion_m203_smoke_purple": 0,
+        "expansionflaregun": 0,
+        "expansionparkingmeterkit": 0,
+        "expansionhescokit": 0,
+        "expansion_m79": 0,
+        "expansion_crossbow": 0,
+        "ammo_expansion_m203_smoke_red": 0,
+        "expansion_anpeq15_red": 0,
+        "ammo_expansion_m203_he": 0,
+        "er7_gauss_battery": 0,
+        "ammo_expansion_m203_smoke_yellow": 0,
+        "expansionbarriergatekit": 0,
+        "expansionbarbedwirekit": 0,
+        "expansion_taser_black": 0,
+        "ammo_er7rfw": 0,
+        "er7_scope": 0,
+        "ammo_expansion_m203_smoke_white": 0,
+        "expansion_m14": 0,
+        "expansioncircuitboard_mk1": 0,
+        "expansioncircuitboard_mk2": 0,
+        "expansioncircuitboard_mk3": 0,
+        "expansion_longhorn": 0,
+        "er7_gauss": 0,
+        "ammo_expansion_m203_smoke_green": 0,
+        "er7_gauss_magazine": 0
+    }
+}

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playerspawnpoints>
+
+<!--
+
+ /$$$$$$$                                   /$$                     /$$      
+| $$__  $$                                 |__/                    | $$      
+| $$  \ $$ /$$$$$$   /$$$$$$  /$$$$$$/$$$$  /$$ /$$$$$$$   /$$$$$$$| $$   /$$
+| $$$$$$$//$$__  $$ /$$__  $$| $$_  $$_  $$| $$| $$__  $$ /$$_____/| $$  /$$/
+| $$____/| $$  \__/| $$  \ $$| $$ \ $$ \ $$| $$| $$  \ $$|  $$$$$$ | $$$$$$/ 
+| $$     | $$      | $$  | $$| $$ | $$ | $$| $$| $$  | $$ \____  $$| $$_  $$ 
+| $$     | $$      |  $$$$$$/| $$ | $$ | $$| $$| $$  | $$ /$$$$$$$/| $$ \  $$
+|__/     |__/       \______/ |__/ |__/ |__/|__/|__/  |__/|_______/ |__/  \__/
+                                                                             
+                                                                             
+-->     
+
+
+
+    <fresh>
+        <spawn_params>
+            <min_dist_infected>30</min_dist_infected>
+            <max_dist_infected>70</max_dist_infected>
+            <min_dist_player>65</min_dist_player>
+            <max_dist_player>150</max_dist_player>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+        </spawn_params>
+
+        <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>200</grid_width>
+            <grid_height>200</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+
+        <group_params>
+            <enablegroups>false</enablegroups>
+            <groups_as_regular>true</groups_as_regular>
+            <lifetime>120</lifetime>
+            <counter>2</counter>
+        </group_params>
+
+        <generator_posbubbles>
+            <group name="Yelmsk">
+                <pos x="4337.35" z="6530.67" /> 
+                <pos x="4222.19" z="6641.24" />
+                <pos x="4238.36" z="6537.02" />
+                <pos x="4265.79" z="6590.25" />
+                <pos x="4159.93" z="6594.86" />
+                <pos x="4190.46" z="6659.26" />
+                <pos x="5178.24" z="6110.20" />
+		        <pos x="4955.85" z="5914.63" />
+		        <pos x="5570.74" z="6168.71" />
+		        <pos x="4608.14" z="5901.78" />
+              
+              
+            </group>
+        </generator_posbubbles>
+    </fresh>
+
+    <hop>
+        <spawn_params>
+            <min_dist_infected>30.0</min_dist_infected>
+            <max_dist_infected>70.0</max_dist_infected>
+            <min_dist_player>25.0</min_dist_player>
+            <max_dist_player>70.0</max_dist_player>
+            <min_dist_static>0.5</min_dist_static>
+            <max_dist_static>2.0</max_dist_static>
+        </spawn_params>
+
+        <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>150</grid_width>
+            <grid_height>150</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+
+        <group_params>
+            <enablegroups>false</enablegroups>
+            <groups_as_regular>true</groups_as_regular>
+            <lifetime>360</lifetime>
+            <counter>-1</counter>
+        </group_params>
+
+        <generator_posbubbles>
+            <group name="Yelmsk">
+                <pos x="4337.35" z="6530.67" /> 
+                <pos x="4222.19" z="6641.24" />
+                <pos x="4238.36" z="6537.02" />
+                <pos x="4265.79" z="6590.25" />
+                <pos x="4159.93" z="6594.86" />
+                <pos x="4190.46" z="6659.26" />
+                <pos x="5178.24" z="6110.20" />
+		        <pos x="4955.85" z="5914.63" />
+		        <pos x="5570.74" z="6168.71" />
+		        <pos x="4608.14" z="5901.78" />
+            </group>
+        </generator_posbubbles>
+    </hop>
+
+    <travel>
+        <spawn_params>
+            <min_dist_infected>30.0</min_dist_infected>
+            <max_dist_infected>70.0</max_dist_infected>
+            <min_dist_player>25.0</min_dist_player>
+            <max_dist_player>70.0</max_dist_player>
+            <min_dist_static>0.5</min_dist_static>
+            <max_dist_static>2.0</max_dist_static>
+        </spawn_params>
+
+        <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>150</grid_width>
+            <grid_height>150</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+
+        <group_params>
+            <enablegroups>false</enablegroups>
+            <groups_as_regular>true</groups_as_regular>
+            <lifetime>360</lifetime>
+            <counter>-1</counter>
+        </group_params>
+
+        <generator_posbubbles>
+            <group name="Yelmsk">
+                <pos x="4337.35" z="6530.67" /> 
+                <pos x="4222.19" z="6641.24" />
+                <pos x="4238.36" z="6537.02" />
+                <pos x="4265.79" z="6590.25" />
+                <pos x="4159.93" z="6594.86" />
+                <pos x="4190.46" z="6659.26" />
+                <pos x="5178.24" z="6110.20" />
+		        <pos x="4955.85" z="5914.63" />
+		        <pos x="5570.74" z="6168.71" />
+		        <pos x="4608.14" z="5901.78" />
+            </group>
+        </generator_posbubbles>
+    </travel>
+
+</playerspawnpoints>

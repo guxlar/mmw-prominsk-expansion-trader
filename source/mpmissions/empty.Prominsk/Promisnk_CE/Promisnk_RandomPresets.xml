@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<randompresets>
+
+<!--
+
+ /$$$$$$$                                   /$$                     /$$      
+| $$__  $$                                 |__/                    | $$      
+| $$  \ $$ /$$$$$$   /$$$$$$  /$$$$$$/$$$$  /$$ /$$$$$$$   /$$$$$$$| $$   /$$
+| $$$$$$$//$$__  $$ /$$__  $$| $$_  $$_  $$| $$| $$__  $$ /$$_____/| $$  /$$/
+| $$____/| $$  \__/| $$  \ $$| $$ \ $$ \ $$| $$| $$  \ $$|  $$$$$$ | $$$$$$/ 
+| $$     | $$      | $$  | $$| $$ | $$ | $$| $$| $$  | $$ \____  $$| $$_  $$ 
+| $$     | $$      |  $$$$$$/| $$ | $$ | $$| $$| $$  | $$ /$$$$$$$/| $$ \  $$
+|__/     |__/       \______/ |__/ |__/ |__/|__/|__/  |__/|_______/ |__/  \__/
+                                                                             
+                                          
+-->     
+  		<cargo chance="1.0" name="P13Crate">
+				<item name="ER7_Gauss" chance="1.0" />
+		</cargo>
+
+  		<cargo chance="1.0" name="Mountain">
+				<item name="ER7_Scope" chance="1.0" />
+		</cargo>  
+  
+    	<cargo chance="1.0" name="P13lab">
+				<item name="ER7_Gauss_Magazine" chance="0.5" />
+		</cargo>
+  
+		<cargo chance="0.15" name="UndeadMilitary">
+			<item name="ACOGOptic" chance="0.2" />
+			<item name="Ammo_762x39Tracer" chance="0.05" />
+			<item name="WeaponCleaningKit" chance="0.05" />
+		</cargo>
+
+<!-- ============================================================ -->
+
+        <cargo chance="0.15" name="UndeadMale">
+            <item name="Battery9V" chance="0.2" />
+            <item name="AmmoBox_9x19_25rnd" chance="0.2" />
+            <item name="BakedBeansCan" chance="0.2" />
+        </cargo>
+
+<!-- ============================================================ -->
+
+        <cargo chance="0.15" name="UndeadFemale">
+            <item name="Battery9V" chance="0.2" />
+            <item name="AmmoBox_9x19_25rnd" chance="0.2" />
+            <item name="BakedBeansCan" chance="0.2" />
+        </cargo>
+
+<!-- ============================================================ -->
+
+        <cargo chance="0.15" name="ForestMutant">
+            <item name="Battery9V" chance="0.2" />
+            <item name="Ammo_ER7RFW" chance="0.2" />
+            <item name="BakedBeansCan" chance="0.2" />
+        </cargo>        
+
+<!-- ============================================================ -->
+
+        <cargo chance="0.15" name="InfectedMonkey">
+            <item name="Ammo_ER7RFW" chance="0.2" />
+            <item name="AmmoBox_9x19_25rnd" chance="0.2" />
+            <item name="BakedBeansCan" chance="0.2" />
+        </cargo>        
+
+<!-- ============================================================ -->
+
+        <cargo chance="0.15" name="Yeti">
+            <item name="Ammo_ER7RFW" chance="0.2" />
+            <item name="AmmoBox_9x19_25rnd" chance="0.2" />
+            <item name="BakedBeansCan" chance="0.2" />
+        </cargo>        
+</randompresets>
