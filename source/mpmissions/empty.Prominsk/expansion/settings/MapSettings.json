@@ -48,6 +48,36 @@
       "m_Persist": 0
     },
     {
+      "m_UID": "Trader 3",
+      "m_Visibility": 6,
+      "m_Is3D": 1,
+      "m_Text": "Trader 2",
+      "m_IconName": "Trader",
+      "m_Color": -16711792,
+      "m_Position": [
+        3273,
+        6,
+        1755
+      ],
+      "m_Locked": 1,
+      "m_Persist": 0
+    },	
+    {
+      "m_UID": "Trader 4",
+      "m_Visibility": 6,
+      "m_Is3D": 1,
+      "m_Text": "Trader 2",
+      "m_IconName": "Trader",
+      "m_Color": -16711792,
+      "m_Position": [
+        4195,
+        6,
+        3326
+      ],
+      "m_Locked": 1,
+      "m_Persist": 0
+    },		
+    {
       "m_UID": "Black Market 1",
       "m_Visibility": 6,
       "m_Is3D": 1,
