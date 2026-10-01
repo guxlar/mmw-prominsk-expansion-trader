@@ -1,0 +1,14 @@
+{
+    "BubakObjectLocations": [
+        {
+            "name": "Skalisty",
+            "objects": [
+                "ZmbF_BlueCollarFat_Blue"
+            ],
+            "number": 1,
+            "pos": [
+                "13200 0 3500"
+            ]
+        }
+    ]
+}
