@@ -1,0 +1,196 @@
+{
+  "Objects": [
+    {
+      "name": "Land_Underground_Panel_Lever",
+      "pos": [
+        6016.443359375,
+        37.70772171020508,
+        3191.11474609375
+      ],
+      "ypr": [
+        -169.20001220703126,
+        0,
+        0
+      ],
+      "scale": 0.9998654127120972,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_ArcticBase_underground_entrance",
+      "pos": [
+        6013.9638671875,
+        35.985443115234375,
+        3193.088623046875
+      ],
+      "ypr": [
+        9.993144989013672,
+        0,
+        0
+      ],
+      "scale": 0.9998166561126709,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "arcticbase\\articbasesciwall.p3d",
+      "pos": [
+        6007.69873046875,
+        15.195444107055664,
+        3187.243408203125
+      ],
+      "ypr": [
+        0.157078817486763,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Panel_Lever",
+      "pos": [
+        5998.14501953125,
+        117.8830795288086,
+        3170.209228515625
+      ],
+      "ypr": [
+        9.79781723022461,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "arcticbase\\articbasesciwall.p3d",
+      "pos": [
+        6017.36865234375,
+        12.980705261230469,
+        3185.550048828125
+      ],
+      "ypr": [
+        0.1570788323879242,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_ArcticBase_DoorPanel",
+      "pos": [
+        6008.880859375,
+        37.386661529541016,
+        3182.843994140625
+      ],
+      "ypr": [
+        9.642057418823242,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "arcticbase\\articbasesciwall.p3d",
+      "pos": [
+        6007.6982421875,
+        12.765819549560547,
+        3187.236572265625
+      ],
+      "ypr": [
+        0.157078817486763,
+        0,
+        0
+      ],
+      "scale": 0.9999988675117493,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "arcticbase\\articbasesciwall.p3d",
+      "pos": [
+        6017.369140625,
+        15.410329818725586,
+        3185.556884765625
+      ],
+      "ypr": [
+        0.157078817486763,
+        0,
+        0
+      ],
+      "scale": 0.9999991059303284,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Platform1_Block",
+      "pos": [
+        5995.10302734375,
+        89.45784759521484,
+        3159.455810546875
+      ],
+      "ypr": [
+        100.3544921875,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_ArcticBase_Door",
+      "pos": [
+        6008.17919921875,
+        117.20214080810547,
+        3176.56298828125
+      ],
+      "ypr": [
+        10.802902221679688,
+        0,
+        0
+      ],
+      "scale": 0.9998603463172913,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Panel_Lever",
+      "pos": [
+        6000.68408203125,
+        117.89591217041016,
+        3170.83251953125
+      ],
+      "ypr": [
+        -80.3266372680664,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Platform1_Block",
+      "pos": [
+        6000.22021484375,
+        89.4781494140625,
+        3159.005615234375
+      ],
+      "ypr": [
+        100.3544921875,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    }
+  ]
+}

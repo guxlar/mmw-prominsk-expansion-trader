@@ -1,0 +1,225 @@
+<spawnabletypes>
+
+<!--
+
+ /$$$$$$$                                   /$$                     /$$      
+| $$__  $$                                 |__/                    | $$      
+| $$  \ $$ /$$$$$$   /$$$$$$  /$$$$$$/$$$$  /$$ /$$$$$$$   /$$$$$$$| $$   /$$
+| $$$$$$$//$$__  $$ /$$__  $$| $$_  $$_  $$| $$| $$__  $$ /$$_____/| $$  /$$/
+| $$____/| $$  \__/| $$  \ $$| $$ \ $$ \ $$| $$| $$  \ $$|  $$$$$$ | $$$$$$/ 
+| $$     | $$      | $$  | $$| $$ | $$ | $$| $$| $$  | $$ \____  $$| $$_  $$ 
+| $$     | $$      |  $$$$$$/| $$ | $$ | $$| $$| $$  | $$ /$$$$$$$/| $$ \  $$
+|__/     |__/       \______/ |__/ |__/ |__/|__/|__/  |__/|_______/ |__/  \__/
+                                                                             
+                                                                             
+-->     
+    <type name="Prominsk_SciFiCrate">
+        <cargo preset="P13Crate" />
+    </type> 
+  
+    <type name="Prominsk_SciFiCrateRed">
+        <cargo preset="Mountain" />
+    </type>
+  
+  
+  <!--
+    <type name="Prominsk_SciFiCrateBlack">
+        <cargo preset="p13lab" />
+    </type>
+  
+ --> 
+  
+  
+  
+  
+  
+ <type name="Prominsk_SciFiCrateBlack">
+	<cargo chance="1.0">
+		<item name="ER7_Gauss_Battery" />
+	</cargo>
+    <cargo chance="1.0">
+		<item name="Ammo_ER7RFW" />
+	</cargo>
+	<cargo chance="1.0">
+		<item name="ER7_Gauss_Magazine" />
+	</cargo>
+  </type> 
+  
+	<type name="Undead_MilitaryZombie1">
+	    <cargo preset="UndeadMilitary" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+	<type name="Undead_MilitaryZombie2">
+	    <cargo preset="UndeadMilitary" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+	<type name="Undead_MilitaryZombie3">
+	    <cargo preset="UndeadMilitary" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+	<type name="Undead_MilitaryZombie4">
+	    <cargo preset="UndeadMilitary" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+	<type name="Undead_MilitaryZombie5">
+	    <cargo preset="UndeadMilitary" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+	<type name="Undead_MilitaryZombie6">
+	    <cargo preset="UndeadMilitary" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+	<type name="Undead_MilitaryZombie7">
+	    <cargo preset="UndeadMilitary" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+	<type name="Undead_MilitaryZombie8">
+	    <cargo preset="UndeadMilitary" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+
+<!-- ================================ -->
+
+	<type name="RaxUndeadFemale1">
+	    <cargo preset="UndeadFemale" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+	<type name="RaxUndeadFemale2">
+	    <cargo preset="UndeadFemale" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+	<type name="RaxUndeadFemale3">
+	    <cargo preset="UndeadFemale" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+	<type name="RaxUndeadFemale4">
+	    <cargo preset="UndeadFemale" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+	<type name="RaxUndeadFemale5">
+	    <cargo preset="UndeadFemale" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+
+<!-- ================================ -->
+
+	<type name="RaxUndeadMale3RaxUndeadMale1">
+	    <cargo preset="UndeadMale" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+	<type name="RaxUndeadMale2">
+	    <cargo preset="UndeadMale" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+	<type name="RaxUndeadMale3">
+	    <cargo preset="UndeadMale" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+	<type name="RaxUndeadMale4">
+	    <cargo preset="UndeadMale" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+	<type name="RaxUndeadMale5">
+	    <cargo preset="UndeadMale" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+
+<!-- ================================ -->
+    
+	<type name="ForestMutant">
+	    <cargo preset="ForestMutant" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+	<type name="InfectedMonkey">
+	    <cargo preset="InfectedMonkey" />
+        <cargo preset="" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+	<type name="Yeti">
+	    <cargo preset="PNC_AMMO" />
+        <cargo preset="Yeti" />
+	    <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+        <cargo preset="" />
+    </type>
+</spawnabletypes>

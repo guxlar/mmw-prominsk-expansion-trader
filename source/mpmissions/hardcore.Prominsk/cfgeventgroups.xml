@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<eventgroupdef>
+
+<!--
+
+ /$$$$$$$                                   /$$                     /$$      
+| $$__  $$                                 |__/                    | $$      
+| $$  \ $$ /$$$$$$   /$$$$$$  /$$$$$$/$$$$  /$$ /$$$$$$$   /$$$$$$$| $$   /$$
+| $$$$$$$//$$__  $$ /$$__  $$| $$_  $$_  $$| $$| $$__  $$ /$$_____/| $$  /$$/
+| $$____/| $$  \__/| $$  \ $$| $$ \ $$ \ $$| $$| $$  \ $$|  $$$$$$ | $$$$$$/ 
+| $$     | $$      | $$  | $$| $$ | $$ | $$| $$| $$  | $$ \____  $$| $$_  $$ 
+| $$     | $$      |  $$$$$$/| $$ | $$ | $$| $$| $$  | $$ /$$$$$$$/| $$ \  $$
+|__/     |__/       \______/ |__/ |__/ |__/|__/|__/  |__/|_______/ |__/  \__/
+                                                                             
+                                                                             
+-->     
+
+	
+
+<!-- Parent selected as: StaticObj_Wreck_Stryker pos: 3968.977539 7.194939 2807.23999 orientation: 0.000018 0 0 -->
+<!--<pos x="3968.977539" z="2807.23999" a="0.000018" y="7.194939" group="tunnelconvoy"/>-->
+<group name="tunnelconvoy">
+	<child type="StaticObj_Wreck_Stryker" deloot="1" lootmax="0" lootmin="0" x="0.0000" z="0.0000" y="0.0000" a="0"/>
+	<child type="StaticObj_ammoboxes_stacked" deloot="1" lootmax="0" lootmin="0" x="-4.4915" z="-4.8086" y="0.7696" a="351"/>
+	<child type="StaticObj_ammoboxes_big" deloot="1" lootmax="0" lootmin="0" x="12.4033" z="-63.2529" y="1.0837" a="54"/>
+	<child type="StaticObj_Furniture_PaperBox_01_small_closed" deloot="1" lootmax="0" lootmin="0" x="10.8792" z="-44.5449" y="-1.6624" a="360"/>
+	<child type="StaticObj_Wreck_MTVR_Cargo" deloot="1" lootmax="0" lootmin="0" x="4.6067" z="-22.7815" y="-0.2089" a="342"/>
+	<child type="StaticObj_Wreck_MTVR_Cargo" deloot="1" lootmax="0" lootmin="0" x="1.7449" z="-11.8396" y="-0.2365" a="351"/>
+	<child type="Land_Wreck_Offroad02_Medic_TK" deloot="1" lootmax="0" lootmin="0" x="14.3826" z="-52.2986" y="-0.0780" a="342"/>
+	<child type="StaticObj_Wreck_MTVR_Cargo" deloot="1" lootmax="0" lootmin="0" x="17.1394" z="-62.7224" y="0.1598" a="351"/>
+	<child type="StaticObj_ammoboxes_stacked" deloot="1" lootmax="0" lootmin="0" x="-4.8027" z="-2.7827" y="0.8112" a="351"/>
+	<child type="Land_Wreck_Offroad02_Aban2_TK" deloot="1" lootmax="0" lootmin="0" x="10.3306" z="-39.7634" y="1.6238" a="342"/>
+	<child type="StaticObj_ammoboxes_big" deloot="1" lootmax="0" lootmin="0" x="2.3777" z="-29.9036" y="0.6993" a="54"/>
+	<child type="StaticObj_ammoboxes_big" deloot="1" lootmax="0" lootmin="0" x="-7.7849" z="-4.3540" y="1.0557" a="252"/>
+	<child type="Land_Wreck_Offroad02_Aban2_TK" deloot="1" lootmax="0" lootmin="0" x="7.9016" z="-32.0032" y="1.6002" a="342"/>
+	<child type="StaticObj_Wreck_Stryker" deloot="1" lootmax="0" lootmin="0" x="19.2803" z="-72.7595" y="0.2020" a="351"/>
+	<child type="StaticObj_ammoboxes_single" deloot="1" lootmax="0" lootmin="0" x="-5.2566" z="-1.1177" y="0.5483" a="333"/>
+</group>
+
+<!-- Parent selected as: Land_Wreck_offroad02_aban1 pos: 2671.47876 7.895223 3250.284668 orientation: 44.999954 0 0 -->
+<!--<pos x="2671.47876" z="3250.284668" a="44.999954" y="7.895223" group="airfieldconcoy"/>-->
+<group name="airfieldconcoy">
+	<child type="Land_Wreck_offroad02_aban1" deloot="1" lootmax="0" lootmin="0" x="0.0000" z="0.0000" y="0.0000" a="0"/>
+	<child type="Land_Wreck_offroad02_aban2" deloot="1" lootmax="0" lootmin="0" x="6.8101" z="6.4426" y="-0.2544" a="0"/>
+	<child type="StaticObj_Wreck_BMP1_DE" deloot="1" lootmax="0" lootmin="0" x="17.5950" z="17.1406" y="-0.7345" a="360"/>
+	<child type="StaticObj_Wreck_Stryker" deloot="1" lootmax="0" lootmin="0" x="34.0339" z="34.5564" y="-1.3387" a="0"/>
+	<child type="Land_Wreck_Offroad02_Medic_TK" deloot="1" lootmax="0" lootmin="0" x="24.1877" z="23.7566" y="-1.8134" a="0"/>
+	<child type="StaticObj_Furniture_hospital_transport_bed" deloot="1" lootmax="0" lootmin="0" x="26.6963" z="27.5269" y="-1.6698" a="144"/>
+	<child type="StaticObj_Forest_HumanSkeleton" deloot="1" lootmax="0" lootmin="0" x="26.7600" z="27.4929" y="-0.8345" a="126"/>
+	<child type="StaticObj_Forest_HumanSkeleton" deloot="1" lootmax="0" lootmin="0" x="28.0286" z="27.3884" y="-1.5544" a="162"/>
+	<child type="StaticObj_Forest_HumanSkeleton" deloot="1" lootmax="0" lootmin="0" x="8.5393" z="9.1758" y="-1.8744" a="198"/>
+	<child type="StaticObj_ammoboxes_single" deloot="1" lootmax="0" lootmin="0" x="0.1663" z="2.8008" y="-1.4347" a="315"/>
+	<child type="StaticObj_ammoboxes_stacked" deloot="1" lootmax="0" lootmin="0" x="-2.8821" z="1.2471" y="-1.1642" a="270"/>
+	<child type="StaticObj_Furniture_PaperBox_01_small_closed" deloot="1" lootmax="0" lootmin="0" x="12.3833" z="13.0820" y="-2.4143" a="315"/>
+</group>
+
+<!-- Parent selected as: StaticObj_Furniture_box_c pos: 3948.131836 7.923049 4010.6875 orientation: 0 0 0 -->
+<!--<pos x="3948.131836" z="4010.6875" a="0" y="7.923049" group="bridgeconvoy"/>-->
+<group name="bridgeconvoy">
+	<child type="StaticObj_Furniture_box_c" deloot="1" lootmax="0" lootmin="0" x="0.0000" z="0.0000" y="0.0000" a="0"/>
+	<child type="StaticObj_ammoboxes_big" deloot="1" lootmax="0" lootmin="0" x="-4.2175" z="-16.2175" y="1.3799" a="306"/>
+	<child type="StaticObj_Wreck_HMMWV" deloot="1" lootmax="0" lootmin="0" x="8.8176" z="12.2141" y="1.8384" a="27"/>
+	<child type="Land_Wreck_Offroad02_Aban2_TK" deloot="1" lootmax="0" lootmin="0" x="2.5435" z="1.5293" y="2.3707" a="27"/>
+	<child type="StaticObj_ammoboxes_single" deloot="1" lootmax="0" lootmin="0" x="1.6685" z="4.6636" y="1.1785" a="0"/>
+	<child type="StaticObj_Wreck_Stryker" deloot="1" lootmax="0" lootmin="0" x="-15.9443" z="-25.9722" y="-0.0241" a="36"/>
+	<child type="StaticObj_ammoboxes_stacked" deloot="1" lootmax="0" lootmin="0" x="2.0173" z="-3.5684" y="1.4106" a="45"/>
+	<child type="StaticObj_ammoboxes_single" deloot="1" lootmax="0" lootmin="0" x="-2.9487" z="-13.4004" y="0.9354" a="0"/>
+	<child type="StaticObj_Wreck_MTVR_Cargo" deloot="1" lootmax="0" lootmin="0" x="-9.7192" z="-16.2607" y="0.3555" a="36"/>
+	<child type="StaticObj_Wreck_MTVR_Cargo" deloot="1" lootmax="0" lootmin="0" x="-2.8977" z="-6.7004" y="0.5281" a="36"/>
+</group>
+
+<!-- Parent selected as: StaticObj_Furniture_box_c pos: 3297.205566 5.603709 5944.695801 orientation: 0 0 0 -->
+<!--<pos x="3297.205566" z="5944.695801" a="0" y="5.603709" group="northcityconvoy"/>-->
+<group name="northcityconvoy">
+	<child type="StaticObj_Furniture_box_c" deloot="1" lootmax="0" lootmin="0" x="0.0000" z="0.0000" y="0.0000" a="0"/>
+	<child type="Land_Mil_GuardShed" deloot="1" lootmax="0" lootmin="0" x="13.4783" z="27.9487" y="2.3122" a="216"/>
+	<child type="StaticObj_Furniture_metalcrate" deloot="1" lootmax="0" lootmin="0" x="-29.3364" z="-29.8926" y="0.3942" a="0"/>
+	<child type="StaticObj_Mil_HBarrier_4m" deloot="1" lootmax="0" lootmin="0" x="20.2231" z="23.2217" y="1.2248" a="36"/>
+	<child type="StaticObj_Furniture_metalcrate" deloot="1" lootmax="0" lootmin="0" x="-28.6194" z="-30.1465" y="0.3824" a="0"/>
+	<child type="StaticObj_Misc_RoadBarrier_2" deloot="1" lootmax="0" lootmin="0" x="17.9675" z="26.5703" y="4.8055" a="36"/>
+	<child type="StaticObj_ammoboxes_big" deloot="1" lootmax="0" lootmin="0" x="6.9546" z="19.2520" y="1.3315" a="126"/>
+	<child type="StaticObj_ammoboxes_stacked" deloot="1" lootmax="0" lootmin="0" x="-2.3877" z="6.9243" y="1.1697" a="36"/>
+	<child type="StaticObj_ammoboxes_stacked" deloot="1" lootmax="0" lootmin="0" x="-3.9739" z="4.9565" y="1.1697" a="36"/>
+	<child type="StaticObj_ammoboxes_stacked" deloot="1" lootmax="0" lootmin="0" x="-5.6953" z="2.8452" y="1.1697" a="36"/>
+	<child type="StaticObj_ammoboxes_single" deloot="1" lootmax="0" lootmin="0" x="-1.0383" z="8.3164" y="0.8651" a="0"/>
+	<child type="StaticObj_Medical_Tarp_Large_Yellow" deloot="1" lootmax="0" lootmin="0" x="-13.5339" z="-18.1426" y="0.4194" a="27"/>
+	<child type="StaticObj_Forest_HumanSkeleton" deloot="1" lootmax="0" lootmin="0" x="-12.1084" z="-17.4731" y="0.4525" a="9"/>
+	<child type="Land_Wreck_Offroad02_Medic_TK" deloot="1" lootmax="0" lootmin="0" x="-17.0247" z="-23.2427" y="0.4217" a="27"/>
+	<child type="StaticObj_Forest_HumanSkeleton" deloot="1" lootmax="0" lootmin="0" x="-13.7273" z="-16.5020" y="0.4620" a="72"/>
+	<child type="StaticObj_Wreck_Stryker" deloot="1" lootmax="0" lootmin="0" x="-22.2778" z="-30.9116" y="0.4674" a="36"/>
+	<child type="StaticObj_Forest_HumanSkeleton" deloot="1" lootmax="0" lootmin="0" x="-14.6731" z="-18.6089" y="1.1481" a="347"/>
+	<child type="StaticObj_Wreck_MTVR_Cargo" deloot="1" lootmax="0" lootmin="0" x="-6.3613" z="-8.0581" y="0.3252" a="36"/>
+	<child type="StaticObj_Wreck_MTVR_Cargo" deloot="1" lootmax="0" lootmin="0" x="3.4250" z="4.9438" y="0.4047" a="36"/>
+	<child type="StaticObj_Forest_DeerSkeleton_Full" deloot="1" lootmax="0" lootmin="0" x="-12.8306" z="-19.4155" y="0.7264" a="351"/>
+	<child type="StaticObj_Wreck_Stryker" deloot="1" lootmax="0" lootmin="0" x="14.3618" z="19.1938" y="0.4674" a="36"/>
+	<child type="StaticObj_Wreck_T72_Chassis" deloot="1" lootmax="0" lootmin="0" x="-30.1653" z="-33.4717" y="1.1938" a="18"/>
+	<child type="StaticObj_Roadblock_Wood_Long" deloot="1" lootmax="0" lootmin="0" x="-16.7585" z="-18.5186" y="1.0056" a="288"/>
+	<child type="StaticObj_Furniture_hospital_transport_bed" deloot="1" lootmax="0" lootmin="0" x="-14.5227" z="-18.7524" y="0.2997" a="351"/>
+	<child type="StaticObj_Roadblock_Wood_Long" deloot="1" lootmax="0" lootmin="0" x="-15.1650" z="-15.5522" y="1.0055" a="306"/>
+	<child type="StaticObj_Furniture_metalcrate" deloot="1" lootmax="0" lootmin="0" x="-7.9824" z="-12.4741" y="0.3645" a="0"/>
+	<child type="StaticObj_Misc_WoodenCrate_3x" deloot="1" lootmax="0" lootmin="0" x="-9.3857" z="-8.9180" y="1.1069" a="306"/>
+	<child type="StaticObj_Roadblock_Wood_Long" deloot="1" lootmax="0" lootmin="0" x="-10.6421" z="-16.0386" y="1.0056" a="207"/>
+	<child type="StaticObj_Misc_WoodenCrate_5x" deloot="1" lootmax="0" lootmin="0" x="7.0984" z="8.9136" y="1.3647" a="36"/>
+	<child type="StaticObj_Roadblock_Wood_Small" deloot="1" lootmax="0" lootmin="0" x="-13.1040" z="-14.8145" y="1.1085" a="9"/>
+	<child type="StaticObj_Roadblock_Wood_Long" deloot="1" lootmax="0" lootmin="0" x="-12.5845" z="-21.9131" y="1.0056" a="171"/>
+	<child type="StaticObj_Misc_WoodenCrate_3x" deloot="1" lootmax="0" lootmin="0" x="8.0996" z="10.0190" y="1.0814" a="36"/>
+	<child type="StaticObj_Roadblock_Wood_Long" deloot="1" lootmax="0" lootmin="0" x="-10.2339" z="-18.9263" y="1.0056" a="288"/>
+	<child type="StaticObj_Misc_WoodenCrate" deloot="1" lootmax="0" lootmin="0" x="6.1943" z="10.1772" y="0.7053" a="18"/>
+	<child type="StaticObj_Misc_WoodenCrate" deloot="1" lootmax="0" lootmin="0" x="-2.3093" z="-4.7266" y="0.7445" a="45"/>
+	<child type="StaticObj_Furniture_metalcrate" deloot="1" lootmax="0" lootmin="0" x="11.9316" z="27.0327" y="0.4053" a="63"/>
+</group>
+
+<!-- Parent selected as: StaticObj_Furniture_PaperBox_01_small_open pos: 5783.981934 11.804504 5821.727539 orientation: 0 0 0 -->
+<!--<pos x="5783.981934" z="5821.727539" a="0" y="11.804504" group="northmiliconvoy"/>-->
+<group name="northmiliconvoy">
+	<child type="StaticObj_Furniture_PaperBox_01_small_open" deloot="1" lootmax="0" lootmin="0" x="0.0000" z="0.0000" y="0.0000" a="0"/>
+	<child type="StaticObj_Wreck_BMP1" deloot="1" lootmax="0" lootmin="0" x="25.1641" z="-21.8311" y="2.1268" a="306"/>
+	<child type="Land_Wreck_Offroad02_Aban2_TK" deloot="1" lootmax="0" lootmin="0" x="-6.4434" z="5.4253" y="2.2057" a="315"/>
+	<child type="StaticObj_Wreck_Stryker" deloot="1" lootmax="0" lootmin="0" x="-13.3330" z="12.5605" y="0.3198" a="324"/>
+	<child type="StaticObj_Wreck_MTVR_Cargo" deloot="1" lootmax="0" lootmin="0" x="5.3213" z="-4.1567" y="0.6287" a="315"/>
+	<child type="StaticObj_Wreck_MTVR_Cargo" deloot="1" lootmax="0" lootmin="0" x="16.3843" z="-14.2339" y="0.9441" a="315"/>
+	<child type="StaticObj_ammoboxes_stacked" deloot="1" lootmax="0" lootmin="0" x="-0.9160" z="-2.1592" y="1.3852" a="306"/>
+	<child type="StaticObj_ammoboxes_single" deloot="1" lootmax="0" lootmin="0" x="-1.5376" z="-0.2861" y="1.0527" a="342"/>
+	<child type="StaticObj_ammoboxes_big" deloot="1" lootmax="0" lootmin="0" x="9.9326" z="-12.0308" y="1.6680" a="36"/>
+	<child type="StaticObj_Roadblock_Pillbox" deloot="1" lootmax="0" lootmin="0" x="35.4106" z="-24.7456" y="2.0013" a="216"/>
+	<child type="StaticObj_ammoboxes_single" deloot="1" lootmax="0" lootmin="0" x="37.3447" z="-25.2446" y="1.3658" a="9"/>
+	<child type="StaticObj_Misc_RoadBarrier_2" deloot="1" lootmax="0" lootmin="0" x="35.0244" z="-30.6724" y="5.3740" a="315"/>
+	<child type="Land_Mil_GuardShed" deloot="1" lootmax="0" lootmin="0" x="29.1479" z="-31.5020" y="3.0660" a="135"/>
+</group>
+
+<!-- Parent selected as: StaticObj_Furniture_PaperBox_01_small_closed pos: 4656.399414 11.263771 4701.395996 orientation: 0 0 0 -->
+<!--<pos x="4656.399414" z="4701.395996" a="0" y="11.263771" group="powerstationconvoy"/>-->
+<group name="powerstationconvoy">
+	<child type="StaticObj_Furniture_PaperBox_01_small_closed" deloot="1" lootmax="0" lootmin="0" x="0.0000" z="0.0000" y="0.0000" a="0"/>
+	<child type="StaticObj_Wreck_Stryker" deloot="1" lootmax="0" lootmin="0" x="-14.5542" z="-10.7705" y="0.3531" a="54"/>
+	<child type="StaticObj_Wreck_Stryker" deloot="1" lootmax="0" lootmin="0" x="22.5747" z="22.9336" y="0.6635" a="36"/>
+	<child type="StaticObj_Wreck_MTVR_Cargo" deloot="1" lootmax="0" lootmin="0" x="-4.0542" z="-3.1143" y="0.4566" a="54"/>
+	<child type="StaticObj_Wreck_MTVR_Cargo" deloot="1" lootmax="0" lootmin="0" x="14.1084" z="12.5117" y="0.6897" a="45"/>
+	<child type="Land_Wreck_Offroad02_Aban1_TK" deloot="1" lootmax="0" lootmin="0" x="5.4565" z="3.8530" y="2.3663" a="54"/>
+	<child type="StaticObj_ammoboxes_stacked" deloot="1" lootmax="0" lootmin="0" x="-12.2295" z="-4.1714" y="1.1988" a="333"/>
+	<child type="StaticObj_ammoboxes_single" deloot="1" lootmax="0" lootmin="0" x="-10.6455" z="-3.1968" y="0.9603" a="45"/>
+	<child type="StaticObj_ammoboxes_big" deloot="1" lootmax="0" lootmin="0" x="15.0171" z="19.9761" y="1.6234" a="306"/>
+	<child type="StaticObj_Furniture_metalcrate" deloot="1" lootmax="0" lootmin="0" x="-1.1357" z="-1.6426" y="1.9255" a="45"/>
+	<child type="StaticObj_Furniture_metalcrate" deloot="1" lootmax="0" lootmin="0" x="0.1406" z="-1.3809" y="0.4867" a="0"/>
+	<child type="StaticObj_Furniture_metalcrate" deloot="1" lootmax="0" lootmin="0" x="0.8804" z="-1.5649" y="0.4872" a="18"/>
+	<child type="Land_Wreck_offroad02_aban2" deloot="1" lootmax="0" lootmin="0" x="-24.1377" z="-17.8701" y="1.8417" a="45"/>
+</group>
+
+<!-- Parent selected as: Land_Wreck_Offroad02_Medic_TK pos: 4113.621094 14.097668 1899.156128 orientation: 63.000172 0 0 -->
+<!--<pos x="4113.621094" z="1899.156128" a="63.000172" y="14.097668" group="southernmiliconvoy"/>-->
+<group name="southernmiliconvoy">
+	<child type="Land_Wreck_Offroad02_Medic_TK" deloot="1" lootmax="0" lootmin="0" x="0.0000" z="0.0000" y="0.0000" a="0"/>
+	<child type="StaticObj_ammoboxes_big" deloot="1" lootmax="0" lootmin="0" x="1.0146" z="-4.9193" y="1.0231" a="288"/>
+	<child type="StaticObj_Wreck_MTVR_Cargo" deloot="1" lootmax="0" lootmin="0" x="-6.8647" z="-8.3026" y="-0.5331" a="315"/>
+	<child type="StaticObj_ammoboxes_stacked" deloot="1" lootmax="0" lootmin="0" x="7.9355" z="-3.7914" y="1.1484" a="297"/>
+	<child type="StaticObj_Wreck_MTVR_Cargo" deloot="1" lootmax="0" lootmin="0" x="-8.1396" z="-20.5841" y="-0.8029" a="297"/>
+	<child type="StaticObj_ammoboxes_single" deloot="1" lootmax="0" lootmin="0" x="28.7114" z="1.5143" y="3.6764" a="297"/>
+	<child type="StaticObj_ammoboxes_big" deloot="1" lootmax="0" lootmin="0" x="-12.1699" z="-9.6897" y="0.4542" a="36"/>
+	<child type="StaticObj_Wreck_Stryker" deloot="1" lootmax="0" lootmin="0" x="13.1021" z="1.2443" y="0.8666" a="27"/>
+	<child type="StaticObj_Wreck_Stryker" deloot="1" lootmax="0" lootmin="0" x="-10.1177" z="-45.4154" y="-1.4455" a="306"/>
+	<child type="StaticObj_ammoboxes_single" deloot="1" lootmax="0" lootmin="0" x="-11.5288" z="-6.5529" y="-0.0705" a="315"/>
+	<child type="StaticObj_Furniture_PaperBox_01_small_closed" deloot="1" lootmax="0" lootmin="0" x="-6.6064" z="0.4169" y="-0.7502" a="297"/>
+	<child type="Land_Wreck_Offroad02_Aban2_TK" deloot="1" lootmax="0" lootmin="0" x="-9.4185" z="-34.3898" y="0.6587" a="306"/>
+	<child type="StaticObj_ammoboxes_single" deloot="1" lootmax="0" lootmin="0" x="6.2671" z="-2.8573" y="0.8092" a="252"/>
+	<child type="StaticObj_Wreck_MTVR_Cargo" deloot="1" lootmax="0" lootmin="0" x="26.5688" z="1.7144" y="1.5862" a="27"/>
+</group>
+
+
+<!--                                                                                             
+Trains
+-->
+
+
+<!-- Parent selected as: StaticObj_Furniture_box_c pos: 4438.57373 9.083393 6039.777832 orientation: 0 0 0 -->
+<!--<pos x="4438.57373" z="6039.777832" a="0" y="9.083393" group="northtrainspawn"/>-->
+<group name="northtrainspawn">
+	<child type="StaticObj_Furniture_box_c" deloot="1" lootmax="0" lootmin="0" x="0.0000" z="0.0000" y="0.0000" a="0"/>
+	<child type="Land_Train_Wagon_Box" deloot="1" lootmax="0" lootmin="0" x="1.8101" z="1.1772" y="2.2232" a="15"/>
+	<child type="Land_Train_Wagon_Box" deloot="1" lootmax="0" lootmin="0" x="16.4893" z="57.7334" y="2.2538" a="14"/>
+	<child type="StaticObj_Wreck_Train_742_Blue" deloot="1" lootmax="0" lootmin="0" x="-2.9775" z="-22.4399" y="2.7712" a="188"/>
+	<child type="StaticObj_Wreck_Train_Wagon_Flat" deloot="1" lootmax="0" lootmin="0" x="12.8896" z="43.5786" y="1.0553" a="195"/>
+	<child type="StaticObj_Wreck_Train_Wagon_Flat" deloot="1" lootmax="0" lootmin="0" x="8.5435" z="26.9805" y="1.0552" a="194"/>
+	<child type="Land_Train_Wagon_Box" deloot="1" lootmax="0" lootmin="0" x="4.8359" z="12.8315" y="2.2232" a="15"/>
+	<child type="StaticObj_Wreck_Train_Wagon_Tanker" deloot="1" lootmax="0" lootmin="0" x="-0.7324" z="-10.3174" y="2.3780" a="191"/>
+</group>
+
+<!-- Parent selected as: StaticObj_Furniture_metalcrate pos: 3133.024902 5.117544 5435.65625 orientation: 0 0 0 -->
+<!--<pos x="3133.024902" z="5435.65625" a="0" y="5.117544" group="southerntrainspawn"/>-->
+<group name="southerntrainspawn">
+	<child type="StaticObj_Furniture_metalcrate" deloot="1" lootmax="0" lootmin="0" x="0.0000" z="0.0000" y="0.0000" a="0"/>
+	<child type="Land_Train_Wagon_Box" deloot="1" lootmax="0" lootmin="0" x="5.5344" z="16.8364" y="2.6875" a="21"/>
+	<child type="StaticObj_Wreck_Train_Wagon_Flat" deloot="1" lootmax="0" lootmin="0" x="10.3232" z="30.7153" y="1.5275" a="18"/>
+	<child type="Land_Train_Wagon_Box" deloot="1" lootmax="0" lootmin="0" x="0.3499" z="5.8413" y="2.6874" a="29"/>
+	<child type="Land_Train_742_Red" deloot="1" lootmax="0" lootmin="0" x="-6.5918" z="-4.9468" y="3.2565" a="216"/>
+	<child type="StaticObj_Wreck_Train_Wagon_Flat" deloot="1" lootmax="0" lootmin="0" x="15.7441" z="47.0005" y="1.5275" a="198"/>
+</group>
+
+</eventgroupdef>

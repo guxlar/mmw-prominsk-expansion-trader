@@ -1,0 +1,891 @@
+{
+    "loglevel": 100,
+    "BubakLocations": [
+        {
+            "name": "P13 T1 Start",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "5998.28076171875 99.00603485107422 3166.982421875",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 3.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "6003.15234375 41.21388244628906 3165.515380859375",
+                "6002.93359375 101.47567749023438 3166.102294921875",
+                "6003.16552734375 36.1728630065918 3165.58935546875",
+                "6003.0 96.44908142089844 3165.778564453125",
+                "6003.1083984375 91.44078063964844 3166.54296875",
+                "6010.107421875 36.29166030883789 3172.880126953125"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 2,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "P13 T2",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "6003.1689453125 81.4009780883789 3166.6640625",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "5998.4521484375 78.93383026123047 3167.21240234375",
+                "5998.2900390625 73.91802978515625 3167.0810546875",
+                "5998.33447265625 68.90132141113281 3166.634033203125"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "P13 T3",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "6003.34765625 111.5094985961914 3167.236328125",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "5998.2841796875 63.914432525634769 3166.839111328125",
+                "6003.48681640625 116.53167724609375 3167.191650390625"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "P13 T4",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "6003.21240234375 51.281280517578128 3166.768310546875",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "5998.2626953125 109.05651092529297 3166.89208984375",
+                "5998.265625 53.83823776245117 3166.571533203125",
+                "6003.064453125 106.49974822998047 3166.16650390625",
+                "5998.31884765625 43.77083969116211 3167.12451171875"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "P13 T5",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "6005.337890625 36.17286205291748 3165.0869140625",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "6009.5390625 36.30125617980957 3169.659423828125",
+                "6010.60693359375 36.267097473144532 3175.941162109375",
+                "6011.5283203125 36.169061660766602 3180.93408203125"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "P13 Main Door",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "6013.67578125 36.196937561035157 3191.313720703125",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                " 6005.671875 36.971805572509766 3199.68359375",
+                " 6032.873046875 36.971805572509766 3194.080810546875"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "P13 Corridor",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "5965.03955078125 35.971900939941409 3195.2470703125",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "5998.74609375 35.971805572509769 3207.237548828125",
+                "5958.853515625 35.97190475463867 3196.879638671875",
+                "5993.75048828125 35.9718017578125 3209.636474609375"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "P13 Corridor2",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "5985.50048828125 35.97190475463867 3195.747802734375",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "6007.97607421875 35.9718132019043 3224.62841796875"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "P13 Corridor3",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "6026.0546875 35.9718017578125 3212.240966796875",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "5985.14306640625 35.97190475463867 3180.510009765625",
+                "6034.29541015625 35.99637222290039 3213.13525390625",
+                "5975.17578125 35.9964714050293 3187.7919921875",
+                "6035.73486328125 35.971805572509769 3207.042236328125",
+                "6039.4765625 35.97848892211914 3223.382080078125",
+                "6024.22265625 35.99637222290039 3227.891845703125",
+                "6001.48681640625 35.98714065551758 3232.111328125"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "P13 Corridor4",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "6029.66357421875 35.9718017578125 3230.779541015625",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "6037.408203125 36.04860305786133 3240.882568359375",
+                "6020.12548828125 35.9718017578125 3248.3291015625",
+                "6024.10595703125 35.971805572509769 3253.93017578125"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "P13 Corridor5",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "5993.96044921875 35.9718017578125 3243.29052734375",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "6020.17236328125 35.9718017578125 3236.666748046875",
+                "6016.65625 35.99637222290039 3240.82275390625",
+                "5987.5908203125 35.9718017578125 3257.420654296875"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "P13 Corridor6",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "6013.70751953125 36.198429107666019 3191.19580078125",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "6003.77978515625 35.971805572509769 3253.177734375",
+                "6018.322265625 35.996368408203128 3196.851806640625",
+                "5988.13037109375 35.9718017578125 3246.3388671875",
+                "6036.5283203125 35.97242736816406 3193.614501953125",
+                "6010.00244140625 35.97180938720703 3230.591552734375",
+                "6034.23583984375 35.971805572509769 3198.91650390625"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "P13 Corridor7",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "5965.03955078125, 35.971900939941409 3195.2470703125",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "5985.50048828125 35.97190475463867 3195.747802734375",
+                "5985.14306640625 35.971904754638673180.510009765625",
+                "5975.17578125 35.9964714050293 3187.7919921875"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "InfectedMonkey"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "P13 Corridor8",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "6004.82177734375, 35.9718017578125 3207.76123046875",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "5967.7431640625 35.97180938720703 3208.722900390625",
+                "6011.4189453125 35.9718017578125 3203.883544921875",
+                "5964.087890625 35.971900939941409 3190.77099609375",
+                "6017.85302734375 35.99637222290039 3212.97998046875",
+                "5960.685546875 35.97190475463867 3207.2978515625"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "InfectedMonkey"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "Bunker Door",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "4033.60498046875 8.520000457763672 2643.633544921875",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "4028.338134765625 8.219344139099121 2635.19140625"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 2,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "Animal_RaxWolf"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "Bunker 1",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "3984.44140625 6.340290069580078 2596.83642578125",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "3972.28125 6.292318344116211 2600.96728515625"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "Bunker 2",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "3919.731689453125 15.054622650146485 2562.85791015625",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "3911.624755859375 14.984888076782227 2565.01806640625",
+                "3906.8515625 20.03360939025879 2539.409912109375"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "Bunker 3",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "3931.4990234375 23.493757247924806 2480.113525390625",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "3949.895263671875 23.49375343322754 2474.826171875"
+            ],
+            "spawnradius": 1.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "Undead_MilitaryZombie6"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "Bunker 4",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "3929.251708984375 23.74277114868164 2479.014892578125",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "3946.93994140625 23.437070846557618 2487.566650390625",
+                "3960.9296875 23.493757247924806 2470.19677734375"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "Bunker 5",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "3966.50048828125 6.379927635192871 2480.37255859375",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "3967.744140625 6.126546859741211 2468.004638671875",
+                "3979.5205078125 6.112780570983887 2453.270263671875",
+                "3964.216064453125 6.11277961730957 2436.402587890625",
+                "3937.582275390625 6.126546859741211 2433.86865234375",
+                "3931.346435546875 6.11277961730957 2404.342529296875"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "Lab 1",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "4106.44091796875 17.28936004638672 1202.001953125",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "4082.72509765625 17.515682220458986 1190.52685546875",
+                "4103.1650390625 23.903261184692384 1195.0438232421876",
+                "4098.01904296875 17.51568031311035 1185.5513916015626"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "Lab 2",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "4099.39453125 17.405540466308595 1174.215087890625",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "4100.00732421875 17.404964447021486 1160.33837890625",
+                "4090.223388671875 17.410554885864259 1146.3936767578126",
+                "4088.526123046875 17.44553565979004 1172.0050048828126",
+                "4077.4599609375 17.405231475830079 1161.93359375"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "ZmbM_ClerkFat_White",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "Lab 3",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "4079.51953125 17.307653427124025 1134.99414062",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "4106.76025390625 27.496389389038087 1142.02783203125",
+                "4090.365966796875 27.476512908935548 1157.5863037109376",
+                "4104.13671875 17.34405517578125 1135.1143798828126",
+                "4084.300048828125 27.48073959350586 1132.9359130859376",
+                "4088.846435546875 17.34405517578125 1128.5775146484376",
+                "4095.57177734375 27.490554809570314 1130.736328125"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "Undead_MilitaryZombie6",
+                    "ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "Mountaian 1",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "5035.34228515625 85.10938262939453 5309.55712890625",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "5084.1103515625 76.99150085449219 5251.9833984375",
+                "5058.79248046875 85.08989715576172 5264.0634765625",
+                "5033.94921875 85.08979797363281 5288.2568359375",
+                "5081.53076171875 84.23358917236328 5313.294921875",
+                "5041.35400390625 85.08989715576172 5245.86376953125",
+                "5091.57177734375 93.0471420288086 5253.19091796875",
+                "5056.490234375 85.08979797363281 5285.5087890625"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 6,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "Undead_MilitaryZombie5"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        },
+        {
+            "name": "Mountaian 2",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "4145.82763671875 112.41605377197266 5500.66064453125",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+                "4049.3173828125 122.95598602294922 5422.17236328125",
+                "4046.9814453125 117.07735443115235 5475.26220703125",
+                "4058.99755859375 120.02886199951172 5452.01123046875",
+                "4035.9716796875 120.59114837646485 5446.66943359375",
+                "4081.943359375 120.0115737915039 5439.94580078125",
+                "4096.544921875 117.7191390991211 5465.53173828125"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "Animal_UrsusArctos",
+                    "Undead_MilitaryZombie6"
+                ],
+                "bubakinventory": [
+                    "Screwdriver",
+                    "WorkingGloves_Yellow"
+                ]
+            }
+        }
+
+		
+    ]
+}
