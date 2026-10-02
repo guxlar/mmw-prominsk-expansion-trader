@@ -53,16 +53,19 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 
 	<ce folder="Promisnk_Ce">
 		<file name="Prominsk_types.xml" type="types" />
-		<file name="Promisnk_SpawnableTypes.xml" type="spawnabletypes" />
-		<file name="Promisnk_RandomPresets.xml" type="randompresets" />
+		<file name="Prominsk_SpawnableTypes.xml" type="spawnabletypes" />
+		<file name="Prominsk_RandomPresets.xml" type="randompresets" />
 	</ce>
 	
-<!-- DAYZ EXPANSION -->
-
 <ce folder="Expansion_CE">
 	<file name="expansion_types.xml" type="types" />
 	<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
 	<file name="expansion_events.xml" type="events" />
 </ce>	
+
+<ce folder="ModTypes/Crocodile">
+	<file name="croco_types.xml" type="types" />
+	<file name="croco_events.xml" type="events" />	
+</ce>
 	
 </economycore>
