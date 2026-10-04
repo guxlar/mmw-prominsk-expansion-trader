@@ -51,7 +51,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 -->     
 
 
-	<ce folder="Promisnk_Ce">
+	<ce folder="Prominsk_Ce">
 		<file name="Prominsk_types.xml" type="types" />
 		<file name="Prominsk_SpawnableTypes.xml" type="spawnabletypes" />
 		<file name="Prominsk_RandomPresets.xml" type="randompresets" />

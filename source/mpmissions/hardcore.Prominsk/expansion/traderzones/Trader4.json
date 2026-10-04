@@ -1,0 +1,13 @@
+{
+  "m_Version": 6,
+  "m_DisplayName": "Trader4",
+  "Position": [
+    4195,
+    6,
+    3326
+  ],
+  "Radius": 200,
+  "BuyPricePercent": 100,
+  "SellPricePercent": -1,
+  "Stock": {}
+}
