@@ -67,5 +67,9 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<file name="croco_types.xml" type="types" />
 	<file name="croco_events.xml" type="events" />	
 </ce>
+
+<ce folder="ModTypes/AirboneAI">
+	<file name="AirboneAI_types.xml" type="types" />
+</ce>
 	
 </economycore>
