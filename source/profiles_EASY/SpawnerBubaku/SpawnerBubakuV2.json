@@ -34,8 +34,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -69,8 +69,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -103,8 +103,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -139,8 +139,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -174,8 +174,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -208,8 +208,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -243,8 +243,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -276,8 +276,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -315,8 +315,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -350,8 +350,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -385,8 +385,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -423,8 +423,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -457,8 +457,8 @@
                     "InfectedMonkey"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -493,8 +493,8 @@
                     "InfectedMonkey"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -525,8 +525,8 @@
                     "Animal_RaxWolf"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -558,8 +558,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -592,8 +592,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -624,8 +624,8 @@
                     "Undead_MilitaryZombie6"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -658,8 +658,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -695,8 +695,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -730,8 +730,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -766,8 +766,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -804,8 +804,8 @@
                     "ZmbM_SoldierNormal"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -842,8 +842,8 @@
                     "Undead_MilitaryZombie5"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
         },
@@ -880,12 +880,273 @@
                     "Undead_MilitaryZombie6"
                 ],
                 "bubakinventory": [
-                    "Screwdriver",
-                    "WorkingGloves_Yellow"
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
-        }
-
+        },
+		{
+			"name": "Croco01",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "4555 5 4131",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 50.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 300,
+            "spawnerpos": [
+                "3952 39 7304"
+            ],
+            "spawnradius": 50.0,
+            "bubakProps": {
+                "bubaknum": 2,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "Animal_Crocodile_Brown"
+                ],
+                "bubakinventory": [
+                    "CrocodileSteakMeat",
+                    "CrocodileSkinHands_Brown",
+                    "CrocodileSkinParts_Brown",
+                    "CrocodileTeeth",
+                    "CrocodileLeatherStrapTeeth_Brown",
+                    "CrocodileLeatherStrap_Brown",
+                    "Gambler_Hat_BlackStraps_Brown",
+                    "CrocodileDundeeKnife",
+                    "CrocodileVest_Brown",
+                    "CrocodileSkin_Brown"
+                ]
+            }
+        },
+		{
+			"name": "Croco02",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "2862 27 3954",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 50.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 300,
+            "spawnerpos": [
+                "3952 39 7304"
+            ],
+            "spawnradius": 50.0,
+            "bubakProps": {
+                "bubaknum": 2,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "Animal_Crocodile_Brown"
+                ],
+                "bubakinventory": [
+                    "CrocodileSteakMeat",
+                    "CrocodileSkinHands_Brown",
+                    "CrocodileSkinParts_Brown",
+                    "CrocodileTeeth",
+                    "CrocodileLeatherStrapTeeth_Brown",
+                    "CrocodileLeatherStrap_Brown",
+                    "Gambler_Hat_BlackStraps_Brown",
+                    "CrocodileDundeeKnife",
+                    "CrocodileVest_Brown",
+                    "CrocodileSkin_Brown"
+                ]
+            }
+        },	
+		{
+			"name": "Croco03",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "2729 6 3308",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 50.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 300,
+            "spawnerpos": [
+                "3952 39 7304"
+            ],
+            "spawnradius": 50.0,
+            "bubakProps": {
+                "bubaknum": 2,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "Animal_Crocodile_Brown"
+                ],
+                "bubakinventory": [
+                    "CrocodileSteakMeat",
+                    "CrocodileSkinHands_Brown",
+                    "CrocodileSkinParts_Brown",
+                    "CrocodileTeeth",
+                    "CrocodileLeatherStrapTeeth_Brown",
+                    "CrocodileLeatherStrap_Brown",
+                    "Gambler_Hat_BlackStraps_Brown",
+                    "CrocodileDundeeKnife",
+                    "CrocodileVest_Brown",
+                    "CrocodileSkin_Brown"
+                ]
+            }
+        },
+		{
+			"name": "Castle Main Entrance",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "5746 151 1594",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 50.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 300,
+            "spawnerpos": [
+                "5773 149 1550",
+				"5828 149 1530",
+				"5874 150 1577",
+				"5954 150 1600",
+				"5942 149 1511"
+            ],
+            "spawnradius": 50.0,
+            "bubakProps": {
+                "bubaknum": 5,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "Animal_Crocodile_Brown",
+					"Undead_MilitaryZombie5",
+					"Undead_MilitaryZombie6",
+					"ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "CrocodileSteakMeat",
+                    "CrocodileSkinHands_Brown",
+                    "CrocodileSkinParts_Brown",
+                    "CrocodileTeeth",
+                    "CrocodileLeatherStrapTeeth_Brown",
+                    "CrocodileLeatherStrap_Brown",
+                    "Gambler_Hat_BlackStraps_Brown",
+                    "CrocodileDundeeKnife",
+                    "CrocodileVest_Brown",
+                    "CrocodileSkin_Brown",
+					"M14","M16A2","M4A1","M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
+                ]
+            }
+        },
+		{
+			"name": "Castle Bridge",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "6107 150 1530",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 50.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 300,
+            "spawnerpos": [
+				"6170.843750 150.000015 1570.091675",
+				"6107.278809 149.999985 1594.593506",
+				"6082.587891 150.024979 1625.004761",
+				"6148.990234 150.000000 1613.442993",
+				"6207.537598 150.025009 1590.134521"
+            ],
+            "spawnradius": 50.0,
+            "bubakProps": {
+                "bubaknum": 5,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "Animal_Crocodile_Brown",
+					"Undead_MilitaryZombie5",
+					"Undead_MilitaryZombie6",
+					"ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "CrocodileSteakMeat",
+                    "CrocodileSkinHands_Brown",
+                    "CrocodileSkinParts_Brown",
+                    "CrocodileTeeth",
+                    "CrocodileLeatherStrapTeeth_Brown",
+                    "CrocodileLeatherStrap_Brown",
+                    "Gambler_Hat_BlackStraps_Brown",
+                    "CrocodileDundeeKnife",
+                    "CrocodileVest_Brown",
+                    "CrocodileSkin_Brown",
+					"M14","M16A2","M4A1","M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
+                ]
+            }
+        },
+		{
+			"name": "Castle Land Bridge",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "6139 150 1770",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 50.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 300,
+            "spawnerpos": [
+				"6079.237305 150.024979 1775.836182",
+				"6074.127441 150.024994 1807.223877",
+				"6030.326172 150.025009 1772.218506"
+            ],
+            "spawnradius": 50.0,
+            "bubakProps": {
+                "bubaknum": 5,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "Animal_Crocodile_Brown",
+					"Undead_MilitaryZombie5",
+					"Undead_MilitaryZombie6",
+					"ZmbM_SoldierNormal"
+                ],
+                "bubakinventory": [
+                    "CrocodileSteakMeat",
+                    "CrocodileSkinHands_Brown",
+                    "CrocodileSkinParts_Brown",
+                    "CrocodileTeeth",
+                    "CrocodileLeatherStrapTeeth_Brown",
+                    "CrocodileLeatherStrap_Brown",
+                    "Gambler_Hat_BlackStraps_Brown",
+                    "CrocodileDundeeKnife",
+                    "CrocodileVest_Brown",
+                    "CrocodileSkin_Brown",
+					"M14","M16A2","M4A1","M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
+                ]
+            }
+        }					
 		
     ]
 }
