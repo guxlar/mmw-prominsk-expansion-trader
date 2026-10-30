@@ -1259,7 +1259,203 @@
                     "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
                 ]
             }
-        }		
+        },
+		{
+            "name": "Harbour 1",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "6669.5185546875 8.589885711669922 1198.9449462890626",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+				"6795.90576171875 10.038761138916016 1181.4439697265626",
+				"6753.05224609375 8.519341468811036 1212.8795166015626",
+				"6742.3017578125 8.568961143493653 1191.08837890625",
+				"6713.86181640625 8.654419898986817 1194.26513671875",
+				"6786.39111328125 10.047327041625977 1193.15576171875",
+				"6798.99951171875 10.02315616607666 1205.6204833984376"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "Undead_MilitaryZombie6"
+                ],
+                "bubakinventory": [
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
+                ]
+            }
+        },
+		{
+            "name": "Harbour 2",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "6792.6533203125 10.037899017333985 1195.9215087890626",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+				"6797.96337890625 10.012641906738282 1151.76708984375",
+				"6797.6162109375 14.056596755981446 1131.625",
+				"6798.96435546875 10.059722900390625 1229.8641357421876",
+				"6817.74462890625 5.870883464813232 1191.35205078125",
+				"6797.28515625 10.021251678466797 1263.833251953125",
+				"6797.744140625 10.010433197021485 1112.334716796875",
+				"6796.5029296875 14.056591987609864 1098.9962158203126",
+				"6818.9189453125 5.871293544769287 1124.0687255859376",
+				"6802.3115234375 10.035850524902344 1235.9207763671876"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "Undead_MilitaryZombie6"
+                ],
+                "bubakinventory": [
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
+                ]
+            }
+        },
+		{
+            "name": "Harbour 3",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "6804.43505859375 10.040054321289063 1274.1693115234376",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+				"6802.9189453125 12.261950492858887 1296.638916015625",
+				"6808.75732421875 12.261956214904786 1330.8397216796876",
+				"6801.2900390625 12.261932373046875 1342.3455810546876",
+				"6801.2763671875 16.308801651000978 1367.2354736328126",
+				"6829.2177734375 10.03187370300293 1366.522705078125",
+				"6862.94189453125 10.020729064941407 1365.58154296875",
+				"6880.32666015625 10.027193069458008 1376.6864013671876"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "Undead_MilitaryZombie6"
+                ],
+                "bubakinventory": [
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
+                ]
+            }
+        },
+		{
+            "name": "Harbour 4",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "6819.62890625 5.878575801849365 1257.009033203125",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+				"6870.99755859375 5.829930305480957 1207.4869384765626",
+				"6837.03173828125 5.885039806365967 1268.6781005859376",
+				"6840.7626953125 19.42479133605957 1242.3223876953126",
+				"6834.1298828125 5.89369535446167 1295.807861328125",
+				"6838.56884765625 5.889672756195068 1345.1231689453126",
+				"6825.1884765625 5.887681484222412 1331.5662841796876",
+				"6864.5869140625 5.82993221282959 1334.9910888671876",
+				"6855.6396484375 5.822318077087402 1254.3802490234376"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "Undead_MilitaryZombie6"
+                ],
+                "bubakinventory": [
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
+                ]
+            }
+        },
+		{
+            "name": "Harbour 5",
+            "workinghours": "0-24",
+            "triggerdependency": [
+                ""
+            ],
+            "triggerpos": "6819.390625 5.871619701385498 1122.812744140625",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 1.0,
+            "triggercylradius": 1.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 10,
+            "spawnerpos": [
+				"6810.54931640625 5.859364986419678 1061.8079833984376",
+				"6824.4365234375 9.956281661987305 1029.77978515625",
+				"6862.81982421875 9.959976196289063 1024.1173095703126",
+				"6844.130859375 9.955657958984375 1026.041015625",
+				"6795.8037109375 10.007312774658204 1037.8980712890626",
+				"6832.53076171875 5.870883464813232 1107.014892578125",
+				"6813.26904296875 5.864428997039795 1157.1962890625",
+				"6830.451171875 5.8833231925964359 1174.9271240234376",
+				"6843.80322265625 5.880006313323975 1133.847412109375",
+				"6857.72802734375 5.830173015594482 1079.273681640625",
+				"6835.4423828125 5.871699810028076 1060.4246826171876"
+            ],
+            "spawnradius": 2.0,
+            "bubakProps": {
+                "bubaknum": 4,
+                "onlyfilluptobubaknum": 1,
+                "itemrandomdmg": 1,
+                "bubaci": [
+                    "Undead_MilitaryZombie6"
+                ],
+                "bubakinventory": [
+                    "M14","M16A2","M4A1","Mag_STANAG_30Rnd","Mag_STANAG_60Rnd",
+                    "M4_Suppressor","M4_T3NRDSOptic","M67Grenade"
+                ]
+            }
+        }				
 
     ]
 }
